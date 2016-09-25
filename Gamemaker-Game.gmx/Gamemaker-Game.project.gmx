@@ -11,8 +11,11 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
-    <script>scripts\scr_get_input.gml</script>
+    <scripts name="Helper Scripts">
+      <script>scripts\scr_get_input.gml</script>
+    </scripts>
   </scripts>
+  <objects name="objects"/>
   <help>
     <rtf>help.rtf</rtf>
   </help>
