@@ -18,12 +18,9 @@
         <sprite>sprites\spr_planet_one</sprite>
         <sprite>sprites\spr_planet_two</sprite>
       </sprites>
-      <sprites name="Menu Sprites">
-        <sprite>sprites\spr_new_game</sprite>
-        <sprite>sprites\spr_load_game</sprite>
-        <sprite>sprites\spr_options</sprite>
-        <sprite>sprites\spr_exit</sprite>
-      </sprites>
+    </sprites>
+    <sprites name="Menu Sprites">
+      <sprite>sprites\spr_menu_buttons</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
